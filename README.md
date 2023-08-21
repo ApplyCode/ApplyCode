@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello, I'm – a passionate web and mobile developer with a flair for turning ideas into captivating digital experiences.
+👋 Hello, I'm a passionate web and mobile developer with a flair for turning ideas into captivating digital experiences.
 
 🚀 With a strong foundation in both front-end and back-end development, I'm on a mission to create seamless, user-centric solutions that make a difference. My journey in the world of code began with a curiosity for how things work and a determination to build impactful software.
 
