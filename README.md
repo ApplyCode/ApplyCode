@@ -102,10 +102,10 @@ Reach me out: [Here](mailto:applymeta6@gmail.com)
 
 <br/>
 <div display="flex">
-  <img width="390px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
-  <img width="390px" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ApplyCode&layout=compact&theme=onedark" />
+  <img width="420px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
+  <img width="355px" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ApplyCode&layout=compact&theme=onedark" />
 </div>
-```
+
 
 "Life is full of ups and downs, but it's important to stay positive and never give up. Believe in yourself, stay motivated, and keep pushing forward."
 
