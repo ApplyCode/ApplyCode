@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi!</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ApplyCode.ApplyCode&left_color=royalblue&right_color=black" />
+I'm a passionate Back-end | Ecommerce Website expert who focuses on Django, Laravel, and Shopify.
+I'm also a strong contributor to product development, from idea generation to product maintenance.
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ApplyCode.ApplyCode&left_color=royalblue&right_color=black"  />
-I'm a passionate web and mobile developer with a flair for turning ideas into captivating digital experiences.
+My expertise includes:
+ -Back-end with Django, Laravel, ASP.NET, REST 
+ -Databases with MySQL, Oracle, PostgreSQL, and MongoDB
+ -Front end with React, Vue
+ -Cloud technologies such as AWS
 
-🚀 With a strong foundation in both front-end and back-end development, I'm on a mission to create seamless, user-centric solutions that make a difference. My journey in the world of code began with a curiosity for how things work and a determination to build impactful software.
+Reach me out: [Email](mailto:applymeta6@gmail.com)
 
-🌐 As a firm believer in the power of design and technology, I bring together the art of aesthetics and the logic of programming to produce websites and apps that not only meet functional goals but also captivate the senses.
-
-💡 My toolbox includes a range of languages, frameworks, and tools that allow me to transform concepts into reality. From responsive web designs that adapt to any screen size to efficient APIs that power dynamic interactions, I love the challenge of finding elegant solutions to complex problems.
-**Languages and tools:**
-
-### :hammer_and_wrench: My Major Skill :  
+## :hammer_and_wrench: My Main Skills are ...  
   <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -97,10 +98,7 @@ I'm a passionate web and mobile developer with a flair for turning ideas into ca
 </table>
 <br><br>
 
-📱 Currently, I'm immersed in the realm of new, aiming to create innovative solutions that push boundaries and redefine user experiences.
-
-
-## My Journey Is ...
+## My Journey is ...
 
 <div align="center">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
@@ -111,8 +109,6 @@ I'm a passionate web and mobile developer with a flair for turning ideas into ca
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ApplyCode&layout=compact&theme=onedark" />
 </div>
 ```
-
-🌟 When I'm not coding, you might find me exploring the outdoors, experimenting with new recipes, or diving into a good book. Let's connect and collaborate on exciting projects that blend creativity and functionality.
 
 "Life is full of ups and downs, but it's important to stay positive and never give up. Believe in yourself, stay motivated, and keep pushing forward."
 
