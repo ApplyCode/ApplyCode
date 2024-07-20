@@ -4,12 +4,12 @@ I'm a passionate Back-end | Ecommerce Website expert who focuses on Django, Lara
 I'm also a strong contributor to product development, from idea generation to product maintenance.
 
 My expertise includes:
- -Back-end with Django, Laravel, ASP.NET, REST 
- -Databases with MySQL, Oracle, PostgreSQL, and MongoDB
- -Front end with React, Vue
- -Cloud technologies such as AWS
+ -Back-end with Django, Laravel, ASP.NET, REST <br>
+ -Databases with MySQL, Oracle, PostgreSQL, and MongoDB <br>
+ -Front end with React, Vue <br>
+ -Cloud technologies such as AWS <br>
 
-Reach me out: [Email](mailto:applymeta6@gmail.com)
+Reach me out: [Here](mailto:applymeta6@gmail.com)
 
 ## :hammer_and_wrench: My Main Skills are ...  
   <div style="display: flex; align-items: flex-start; align: center">
@@ -102,8 +102,8 @@ Reach me out: [Email](mailto:applymeta6@gmail.com)
 
 <br/>
 <div display="flex">
-  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ApplyCode&layout=compact&theme=onedark" />
+  <img width="390px" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
+  <img width="390px" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ApplyCode&layout=compact&theme=onedark" />
 </div>
 ```
 
