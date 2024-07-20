@@ -100,12 +100,9 @@ Reach me out: [Email](mailto:applymeta6@gmail.com)
 
 ## My Journey is ...
 
-<div align="center">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
-</div>
 <br/>
 <div display="flex">
-  <img width="450px" src="https://github-readme-activity-graph.vercel.app/graph?username=ApplyCode&theme=github">
+  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=ApplyCode&theme=onedark" />
   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ApplyCode&layout=compact&theme=onedark" />
 </div>
 ```
