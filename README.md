@@ -4,9 +4,9 @@ I'm a passionate Back-end | Ecommerce Website expert who focuses on Django, Lara
 I'm also a strong contributor to product development, from idea generation to product maintenance.
 
 My expertise includes:
- -Back-end with Django, Laravel, ASP.NET, REST <br>
+ -Back-end with Django, Laravel, ASP.NET, Goland, Ruby on Rails, REST <br>
  -Databases with MySQL, Oracle, PostgreSQL, and MongoDB <br>
- -Front end with React, Vue <br>
+ -Front end with React, Vue, Angular <br>
  -Cloud technologies such as AWS <br>
 
 Reach me out: [Here](mailto:applymeta6@gmail.com)
